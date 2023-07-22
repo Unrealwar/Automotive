@@ -1,4 +1,4 @@
-# Build project on GazProm
+# Build project on Automotive
 I made a project about Automotive, where I used :
 - HTML
 - CSS
